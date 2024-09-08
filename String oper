@@ -1,5 +1,5 @@
    
-	public class Stringop {
+     class Stringop {
     public static void main(String[] args) {
         String s1 = "Aqua";
         String s2 = "Maran";
